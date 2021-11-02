@@ -1,0 +1,5 @@
+
+string = "python"
+no=input("number of multiplications:")
+x=a*no
+print(x)
