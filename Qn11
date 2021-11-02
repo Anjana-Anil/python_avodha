@@ -1,0 +1,3 @@
+a = ['Roy','Neena','Sai','Puja','Zera','Diliya','Janisha','Lijin','Wasim','Saruk']
+a.sort()
+print a
